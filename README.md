@@ -1,6 +1,6 @@
 # 🛒 Store Inventory Application
 
-A lightweight **Store Inventory Management System** designed to help users manage products effortlessly. This application allows you to add products to your inventory by specifying their type, name, and additional details.
+A lightweight **Store Inventory Management System** designed to help users manage products effortlessly. This application allows you to add products to your inventory by specifying their type, name, and additional details.  site is live at https://baseem-ali-ch.github.io/Online-store-TypeScript/
 
 ---
 
