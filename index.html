@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Store Inventory</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Store Inventory</h1>
+    <div class="form">
+        <label>Product Type:</label>
+        <select id="product-type">
+            <option value="book">Book</option>
+            <option value="gadget">Gadget</option>
+            <option value="stationary">Stationary</option>
+
+        </select>
+        <input type="text" id="product-name" placeholder="Product Name">
+        <input type="text" id="product-info" placeholder="Author or Brand">
+        <button onclick="addProduct()">Add Product</button>
+    </div>
+    <h2>Inventory</h2>
+    <ul id="inventory-list"></ul>
+
+    <script src="script.js" defer></script>
+</body>
+</html>
