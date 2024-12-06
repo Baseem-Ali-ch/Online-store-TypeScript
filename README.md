@@ -21,7 +21,7 @@ A lightweight **Store Inventory Management System** designed to help users manag
 
 - **HTML** - Provides the structure of the app.  
 - **CSS** - Styles the interface.  
-- **JavaScript** - Handles dynamic functionalities like adding products to the inventory.  
+- **TypeScript** - Handles dynamic functionalities like adding products to the inventory.  
 
 ---
 
@@ -39,5 +39,5 @@ store-inventory/
 │
 ├── index.html         # Main HTML file
 ├── style.css          # CSS file for styling
-├── script.js          # JavaScript file for functionality
+├── script.ts          # TypeScript file for functionality
 └── README.md          # Project documentation
